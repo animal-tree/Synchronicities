@@ -27,7 +27,7 @@ I was also put on a physics project shortly after having some physics ideas. Man
 
 God forbid I have the morale to actually write something and get credit.
 ___
-That MHDPA paper was back in the days of TensorFlow 1.0 lol. I had to program it declaratively in Sonnet. My school was confused why I kept describing it as "relational reasoning". I included one equation to describe MHDPA (the standard one, that is now the mathematical convention) and was told "it's not enough math."
+That MHDPA paper was back in the days of TensorFlow 1.0. I had to program it declaratively in Sonnet. My school was confused why I kept describing it as "relational reasoning". I included one equation to describe MHDPA (the standard one, that is now the mathematical convention) and was told "it's not enough math."
 
 I proposed vision transformers in my area exam and passed "with flying colors", however I had to take a lot of benzos that day because I was in severe withdrawal and incapacitated/debilitated severely. Still got a master's degree! The vision transformers were actually mentioned off-handedly as just a way to generate relational representations from image features for sending into a neural episodic/longterm memory.
 
