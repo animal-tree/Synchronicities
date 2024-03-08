@@ -36,6 +36,8 @@ My vision from back then is still ahead of where the art is today, just saying.
 However, I'm now funded by the mech-e department to do physics modeling and have been institutionalized many times since. Therefore, and for other reasons, I'm just watching as the world takes my ideas, that, by the way, I suffered quite a lot for.
 
 > Wow, reading this back I can tell there is something in my linguistics that wants to make me seem unconvincing.
+>
+> I was many months in withdrawal from those benzos that were coerced on me and that I argued against, that I had to take against my will in the hospital. The withdrawal was so bad, that I literally couldn't do 4*7. So yes, I had to — not wanted to — was forced to — take them in order to do my area exam. The "flying colors" are probably why I passed because they usually don't appreciate good ideas for their own sake.
 
 ---
 
