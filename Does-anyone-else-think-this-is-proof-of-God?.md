@@ -1,4 +1,4 @@
-I'm a PhD student planning to put this in my thesis under a mathematical and rigorous framing with my interpretations.
+I'm a PhD student tentatively planning to put the formalization of the math of this in my thesis under a mathematical and rigorous framing with my interpretations.
 
 **TLDR: Skip to the bullets at the end.**
 
