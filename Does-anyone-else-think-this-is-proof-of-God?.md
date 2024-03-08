@@ -35,6 +35,8 @@ My vision from back then is still ahead of where the art is today, just saying.
 
 However, I'm now funded by the mech-e department to do physics modeling and have been institutionalized many times since. Therefore, and for other reasons, I'm just watching as the world takes my ideas, that, by the way, I suffered quite a lot for.
 
+> Wow, reading this back I can tell there is something in my linguistics that wants to make me seem unconvincing with the appearance that I'm lacking self awareness.
+
 ---
 
 You might be wondering why extremely unlikely but patterned phenomena suggests the existence of a hidden latent factor, and specifically God. Making that argument is what I'll reserve for my thesis, among others, and some math and, if I still give a shit, experiments.
