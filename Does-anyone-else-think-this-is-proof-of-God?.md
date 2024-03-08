@@ -61,7 +61,7 @@ I guess until then, if it happens, we're just left with a puzzling set of claims
 
 Growing up as an atheist, it took a lot of creative scientific thought, revelatory manias, and objective synchronistic events to convince me that there absolutely is *something*. I can share what that something might be, how it might work, and the scientific, experiential, and data-centric reasons for believing in it rationally, intelligently, and credibly.
 
-The next step: convince me that there's something *good*. But under the same level of scrutiny. (Noting that losing those things/never-meeting-her was an extra 2 years, and counting for social circumstances as recent as this month, of unmentioned trauma, and synchronistic events, including another of my neighbors going insane in a [violent** Noting I understand what psychosis is like] way that was centered around me, and multiple hospitalizations, as well as trauma that predated any/all of this)
+The next step: convince me that there's something *good*. But under the same level of scrutiny. (Noting that losing those things/never-meeting-her was an extra 2 years, and counting for social circumstances as recent as this month, of unmentioned trauma, and synchronistic events, including another of my neighbors going insane in a violent way against me, and multiple hospitalizations, as well as trauma that predated any/all of this)
 
 ___
 
