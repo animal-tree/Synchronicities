@@ -66,7 +66,7 @@ The next step: convince me that there's something *good*. But under the same lev
 <p align="center">
 <picture>
   <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/animal-tree/Synchronicities/assets/142250284/23d5be0f-5142-4879-8c76-131ac47a8fb7">
-  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src=""https://github.com/animal-tree/Synchronicities/assets/142250284/ba995599-d610-4117-a393-477ee62255cb">
+  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/animal-tree/Synchronicities/assets/142250284/ba995599-d610-4117-a393-477ee62255cb">
 </picture>
 </p>
 
