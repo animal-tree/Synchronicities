@@ -1,6 +1,6 @@
 I'm a PhD student tentatively planning to put the formalization of the math of this in my thesis under a mathematical and rigorous framing with my interpretations.
 
-**TLDR: Skip to the bullets at the end.**
+**TLDR: Skip to the bullets 2/3 into this document.**
 
 1. I went through severe traumas, rapidly in succession, extremely severe and for the most part independent, including actual medical malpractices.
 2. One of them involved losing all of my hair. I'm a Jewish guy with brown hair with no hereditary predisposition to baldness. Due to chance situations involving a biologic agent for eczema called Dupilumab, my insurance, and my doctor, I lost all of my hair, including eyebrows and eyelashes, perhaps permanently.
@@ -62,6 +62,13 @@ I guess until then, if it happens, we're just left with a puzzling set of claims
 Growing up as an atheist, it took a lot of creative scientific thought, revelatory manias, and objective synchronistic events to convince me that there absolutely is *something*. I can share what that something might be, how it might work, and the scientific, experiential, and data-centric reasons for believing in it rationally, intelligently, and credibly.
 
 The next step: convince me that there's something *good*. But under the same level of scrutiny. (Noting that losing those things/never-meeting-her was an extra 2 years, and counting for social circumstances as recent as this month, of unmentioned trauma, and synchronistic events, including another of my neighbors going insane in a violent way against me, and multiple hospitalizations, as well as trauma that predated any/all of this)
+
+<p align="center">
+<picture>
+  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/animal-tree/Synchronicities/assets/142250284/23d5be0f-5142-4879-8c76-131ac47a8fb7">
+  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src=""https://github.com/animal-tree/Synchronicities/assets/142250284/ba995599-d610-4117-a393-477ee62255cb">
+</picture>
+</p>
 
 ___
 
