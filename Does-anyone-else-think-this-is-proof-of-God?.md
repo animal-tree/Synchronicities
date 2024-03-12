@@ -1,6 +1,6 @@
 I'm a PhD student tentatively planning to put the formalization of the math of this in my thesis under a mathematical and rigorous framing with my interpretations.
 
-**TLDR: Skip to the bullets 2/3 into this document.**
+**TLDR: Scroll to the bullets 2/3 into this document.**
 
 1. I went through severe traumas, rapidly in succession, extremely severe and for the most part independent, including actual medical malpractices.
 2. One of them involved losing all of my hair. I'm a Jewish guy with brown hair with no hereditary predisposition to baldness. Due to chance situations involving a biologic agent for eczema called Dupilumab, my insurance, and my doctor, I lost all of my hair, including eyebrows and eyelashes, perhaps permanently.
