@@ -67,7 +67,7 @@ The next step: convince me that there's something *good*. But under the same lev
 <picture>
   <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/animal-tree/Synchronicities/assets/142250284/23d5be0f-5142-4879-8c76-131ac47a8fb7">
   <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/animal-tree/Synchronicities/assets/142250284/ba995599-d610-4117-a393-477ee62255cb">
-</picture>
+</picture><br><i>"Schizophrenia doesn't exist." I think in the subconscious, some kind of map like this exists, where there is a disconnect or dissociation, not internally, but between registered physics of the world and societal physics operated by and understood, all at subconscious levels. In indiginous cultures and regions like Tibet, the reason schizophrenia doesn't exist is because the understood physics of those symptoms are in agreement with the physics practiced by those societies. In my society, the unknown physics are rationally interpretable as conspiracy or evil.</i>
 </p>
 
 ___
